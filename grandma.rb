@@ -27,5 +27,5 @@ def speak_to_grandma(phrase)
 end
  
  print speak_to_grandma("Hi Grandma")
- 
+ print speak_to_grandma("HI GRANDMA")
  
